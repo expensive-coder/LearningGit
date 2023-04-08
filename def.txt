@@ -1,0 +1,1 @@
+Learning git is fundamental for coding and collaborating.
